@@ -1,0 +1,5 @@
+C:\Users\shivam\Documents\Visual Studio 2010\Projects\YouChatServer\YouChatServer\bin\Debug\YouChatServer.exe
+C:\Users\shivam\Documents\Visual Studio 2010\Projects\YouChatServer\YouChatServer\bin\Debug\YouChatServer.pdb
+C:\Users\shivam\Documents\Visual Studio 2010\Projects\YouChatServer\YouChatServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\shivam\Documents\Visual Studio 2010\Projects\YouChatServer\YouChatServer\obj\x86\Debug\YouChatServer.exe
+C:\Users\shivam\Documents\Visual Studio 2010\Projects\YouChatServer\YouChatServer\obj\x86\Debug\YouChatServer.pdb

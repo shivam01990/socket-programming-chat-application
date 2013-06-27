@@ -1,0 +1,5 @@
+C:\Users\shivam\Documents\Visual Studio 2010\Projects\YouChatClient\YouChatClient\bin\Debug\YouChatClient.exe
+C:\Users\shivam\Documents\Visual Studio 2010\Projects\YouChatClient\YouChatClient\bin\Debug\YouChatClient.pdb
+C:\Users\shivam\Documents\Visual Studio 2010\Projects\YouChatClient\YouChatClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\shivam\Documents\Visual Studio 2010\Projects\YouChatClient\YouChatClient\obj\x86\Debug\YouChatClient.exe
+C:\Users\shivam\Documents\Visual Studio 2010\Projects\YouChatClient\YouChatClient\obj\x86\Debug\YouChatClient.pdb
